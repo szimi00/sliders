@@ -1,0 +1,4 @@
+sliders
+=======
+
+Sliders repository
